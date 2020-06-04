@@ -6,7 +6,7 @@
 	This is Honki*.
 
 ### OK this time check my own dumb app
-
+	Double Check
 
 
 Tablut is one of the family of tafl (or hnefatafl) games: Nordic and Celtic strategy games played on checkered boards between two asymmetric armies. These are ancient games, possibly related to the Roman game ludus latrunculorum, that were generally displaced by chess in the 12th century. Tablut is a variant from Lapland (the northernmost region of Finland). The detailed rules of these games are generally disputed; tablut, having survived into the 1700s, is perhaps best documented (by none other than Carl Linnaeus, the fellow responsible for our state animal being known as Ursus arctos californicus and our state trees as Sequoia sempervirens and Sequoiadendron giganteum in scientific circles). However, his account is itself incomplete and additional confusion resulted from the later mistranslation of his manuscript from Latin. Therefore, any of you familiar with modern reconstructions of the game should not expect that our version will be identical to yours.
