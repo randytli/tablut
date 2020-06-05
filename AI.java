@@ -1,5 +1,5 @@
 package tablut;
-
+//bite za
 
 import java.util.ArrayList;
 
