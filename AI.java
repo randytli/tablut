@@ -1,5 +1,5 @@
 package tablut;
-
+、、ff
 
 import java.util.ArrayList;
 
