@@ -1,5 +1,5 @@
 package tablut;
-
+//没定黑纹
 
 import java.util.ArrayList;
 
