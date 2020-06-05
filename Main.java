@@ -11,7 +11,7 @@ import static tablut.Utils.error;
 import ucb.util.CommandArgs;
 
 /** The main class for the Tablut game.
- *  @author P. N. Hilfinger
+ *  @autho
  */
 public class Main {
 
