@@ -1,5 +1,5 @@
 package tablut;
-
+//made in china
 
 import java.util.ArrayList;
 
