@@ -1,5 +1,5 @@
 package tablut;
-
+//test comment condition
 
 import java.util.ArrayList;
 
