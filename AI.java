@@ -1,6 +1,6 @@
 package tablut;
 
-
+//star
 import java.util.ArrayList;
 
 
